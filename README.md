@@ -1,1 +1,1 @@
-Isaac scripting description
+Shell, init files, variables and expansions script description
